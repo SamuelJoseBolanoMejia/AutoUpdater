@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>1.0.0.0</version>
+  <version>0.0.0.0</version>
   <url>https://github.com/samy19911991/AutoUpdater/blob/main/AutoUpdaterTest.zip</url>
   <changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
   <mandatory>false</mandatory>
