@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
   <version>8.0.0.0</version>
-  <url>https://raw.githubusercontent.com/samy19911991/AutoUpdater/main/Aplicacion.exe</url>
+  <url>https://raw.githubusercontent.com/samy19911991/AutoUpdater/main/AutoUpdaterTest.zip</url>
   <changelog>https://github.com/ravibpatel/AutoUpdater.NET</changelog>
   <mandatory>false</mandatory>
 </item>
