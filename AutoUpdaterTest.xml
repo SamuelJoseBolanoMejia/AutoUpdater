@@ -2,6 +2,6 @@
 <item>
   <version>6.0.0.0</version>
   <url>https://raw.githubusercontent.com/samy19911991/AutoUpdater/main/AutoUpdaterTest.zip</url>
-  <changelog>https://github.com/samy19911991/AutoUpdater/blob/main/AutoUpdaterTest.xml</changelog>
+  <changelog>https://github.com/samy19911991/AutoUpdater/blob/main/README.md</changelog>
   <mandatory>false</mandatory>
 </item>
