@@ -2,6 +2,6 @@
 <item>
   <version>12.0.0.1</version>
   <url>https://raw.githubusercontent.com/samy19911991/AutoUpdater/main/AutoUpdaterTest.zip</url>
-  <changelog>https://tht.company/</changelog>
+  <changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
   <mandatory>false</mandatory>
 </item>
