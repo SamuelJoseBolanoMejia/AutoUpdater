@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>10.0.0.0</version>
+  <version>1.0.0.0</version>
   <url>https://raw.githubusercontent.com/samy19911991/AutoUpdater/main/AutoUpdaterTest.zip</url>
   <changelog>https://www.google.com/</changelog>
   <mandatory>false</mandatory>
